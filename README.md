@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Anif Minhaz Khan.
-- 👀 I’m interested in exploring Image Processing, Computer Vision and Machine Learning.
-- 🌱 I’m currently learning Image Processing for Document Automation.
-- 💞️ I’m looking to collaborate on open source projects regarding the above interests.
-- 📫 Reach me: anif.cse@gmail.com or https://www.linkedin.com/in/anif-minhaz-khan-419a10193/ 
+Hi there, and thank you for stopping by my GitHub profile. My name is Anif Minhaz Khan and I am a Masters student with a focus on machine learning, deep learning and artificial intelligence.
 
-<!---
-anifminhaz/anifminhaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+On this profile, you will find a range of projects and resources that I have created or contributed to, including side projects, course materials, and thoughts on various topics that interest me. Whether you are looking for inspiration or just want to learn more about my work, I hope you find something here that is of value to you.
+
+Thank you for visiting, and I hope you have a great day!
+- 📫 Reach me at : anif.cse@gmail.com or https://www.linkedin.com/in/anif-minhaz-khan-419a10193/ 
+
+
